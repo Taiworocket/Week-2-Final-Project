@@ -246,6 +246,10 @@ button:hover {
   font-size: 24px;
 }
 
+.btn_single--color {
+  color: white;
+}
+
 .menu__list {
   padding: 32px 0;
 }
